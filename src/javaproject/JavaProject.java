@@ -16,9 +16,7 @@ public class JavaProject {
      */
     public static void main(String[] args)
     {
-        Employee a1 = new Employee();
-        a1.setValues(101,"Sejal",50000);
-        a1.display();
+        
     }
 
     
