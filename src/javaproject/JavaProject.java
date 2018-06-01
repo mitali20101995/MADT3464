@@ -14,8 +14,12 @@ public class JavaProject {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
+    public static void main(String[] args)
+    {
+        Employee a1 = new Employee();
+        a1.setValues(101,"Sejal",50000);
+        a1.display();
     }
+
     
 }
